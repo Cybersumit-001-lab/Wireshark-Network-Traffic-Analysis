@@ -38,3 +38,8 @@ Capture live network packets using Wireshark and identify different protocols an
 
 ---
 
+## 📁 Repository Contents
+capture/ → contains the .pcap capture file
+report/ → detailed analysis report
+filters/ → protocol filter commands
+README.md → main documentation
