@@ -43,3 +43,11 @@ capture/ → contains the .pcap capture file
 report/ → detailed analysis report
 filters/ → protocol filter commands
 README.md → main documentation
+
+
+---
+
+## 🧩 Conclusion
+This task demonstrated how Wireshark captures and analyzes real network traffic.  
+By using filters, I was able to identify and understand key network protocols.
+
