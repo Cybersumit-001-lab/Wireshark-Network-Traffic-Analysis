@@ -1,0 +1,13 @@
+# Wireshark Filters Used
+
+1. ARP Filter
+arp
+
+2. ICMP Filter
+icmp
+
+3. DNS Filter
+dns
+
+4. TCP Filter
+tcp
