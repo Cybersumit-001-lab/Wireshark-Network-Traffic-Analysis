@@ -1,0 +1,28 @@
+Network Traffic Analysis Report
+--------------------------------
+
+Date: 27 Oct 2025
+Student: Sumit Kumar Ram
+Tool Used: Wireshark
+Interface: Wi-Fi
+
+--------------------------------
+Identified Protocols
+--------------------------------
+1. ARP - Resolves MAC addresses of devices in the local network.
+   Example: ARP request and reply seen between local and gateway IPs.
+
+2. ICMP - Used for testing connectivity (ping).
+   Example: Echo Request and Echo Reply packets to google.com.
+
+3. DNS - Converts domain names to IP addresses.
+   Example: Query for google.com resolved to 142.250.x.x.
+
+4. TCP - Handles reliable communication between devices.
+   Example: SYN, ACK packets during connection setup.
+
+--------------------------------
+Conclusion
+--------------------------------
+Captured and analyzed multiple protocol layers using Wireshark.
+These protocols demonstrate how devices locate each other, check connectivity, and communicate efficiently across networks.
