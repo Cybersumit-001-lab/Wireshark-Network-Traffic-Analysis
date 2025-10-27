@@ -25,9 +25,11 @@ Capture live network packets using Wireshark and identify different protocols an
 ## 🔍 Protocol Filters Used
 | Protocol | Filter Command | Description |
 |-----------|----------------|--------------|
-| **DNS** | `dns` | Used for domain name lookups |
-| **TCP** | `tcp` | Reliable data transport between hosts |
-| **HTTP** | `http` | Web traffic communication |
+| **ARP** | `arp` | Resolves MAC addresses in local networks |
+| **ICMP** | `icmp` | Used for ping and diagnostic communication |
+| **DNS** | `dns` | Resolves domain names to IP addresses |
+| **TCP** | `tcp` | Provides reliable data transport between hosts |
+
 
 ---
 
